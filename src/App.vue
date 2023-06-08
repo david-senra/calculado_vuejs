@@ -1,7 +1,7 @@
 <script setup>
 import { reactive } from 'vue';
 import Formulario from './components/Formulario.vue';
-import Calculadora from './components/Calculadora.Vue';
+import Calculadora from './components/Calculadora.vue';
 
 const estado = reactive ({
   autoCalcular: false,
